@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\vharari.ORADEV\Downloads\SoundRecordingExample\DetectIncomingCall1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="026e39e3bca8bea0631259ef9e75351e792d9758">
+        <dex dex="C:\Users\vharari.ORADEV\Downloads\SoundRecordingExample\DetectIncomingCall1\app\build\intermediates\pre-dexed\debug\instant-run_3d6551c97f1fc54e67ef211a9fefc8c30f50fc8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\vharari.ORADEV\Downloads\SoundRecordingExample\DetectIncomingCall1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="52caa5aa047b0467cadfddccd9ba0e359de75c8a">
+        <dex dex="C:\Users\vharari.ORADEV\Downloads\SoundRecordingExample\DetectIncomingCall1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_aa612ebe844b2396151cbc1f07e3a8c31b0602e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\vharari.ORADEV\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\vharari.ORADEV\Downloads\SoundRecordingExample\DetectIncomingCall1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_f3cf3ab39f3555a78be05b0e915dcce8382fa59f.jar" />
+    </item>
+
+</items>
